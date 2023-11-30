@@ -47,3 +47,6 @@ button{
 .BordesParaBoton{
     border: 2px solid #FFC107;
 }
+a {
+ margin-left: 20px;
+}
