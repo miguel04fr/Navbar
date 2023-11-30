@@ -6,9 +6,20 @@ nav.navbar.navbar-expand-sm{
     display: flex;
     
 }
+.home{
+    display: flex;
+}
+.home i{
+    margin-right: 9px;
+}
 .d-flex .my-2 .my-lg-0{
     display: flex;
 }
+
+input[type="text"] {
+    outline: none;
+    border: none;
+  }
 .fas{
     line-height: 0;
 }
@@ -53,8 +64,8 @@ a {
     margin-left: 10px;
 }
 .yellow-square {
-    width: 60px;
-    height: 36px;
+    width: 50px;
+    height: 30px;
     background-color: #FFC107;
     display: flex;
     align-items: center;
