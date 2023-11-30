@@ -1,0 +1,49 @@
+
+nav.navbar.navbar-expand-sm{
+    display: flex;
+}
+.container{
+    display: flex;
+    
+}
+.d-flex .my-2 .my-lg-0{
+    display: flex;
+}
+.fas{
+    line-height: 0;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+li{
+    display: flex;
+    align-items: center;
+}
+.navbar-brand h5{
+    margin: 0px;
+}
+.nav-item a{
+   color: black;
+    
+   text-decoration: none;
+}
+.d-flex .my-2 .my-lg-0{
+    border: none;
+}
+input.form-control.me-sm-2{
+    border: none;
+  
+}
+button{
+    border: none;
+
+}
+.BordesParaBoton{
+    border: 2px solid #FFC107;
+}
